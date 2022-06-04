@@ -38,4 +38,4 @@ You can also send XCH to my projects charity wallet:
 
 XCH: xch18s8gy8du50dt2sdv23fn8yl9jrdqehx79gkqpadaauhq3aj23meqlj07tk
 
-10% of every Income generated goes to St. Anna Childrens Cancer Research.
+10% of every Income generated from my projects goes to St. Anna Childrens Cancer Research.
