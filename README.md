@@ -5,6 +5,10 @@ Prerequirements:
 
 sudo apt install imagemagick parallel -y
 
+You also need the font if you decide to use the same font. Otherwise you have to comment the font option out or select a different font.
+
+https://fonts.google.com/specimen/Philosopher
+
 How to use:
 
 Create a folder with your 10k NFTs in it.
