@@ -18,7 +18,7 @@ Place gallery.sh and sold.txt in the same folder.
 Files have to be named 1.png 2.png 3.png and so on. (This will add the Labels #1 #2 #3 and so on on each Image)
 Hint: You can change format in the script if needed
 
-sold.txt should contain the names of the NFTs you already sold. The files should be listed as labeled1.png labeled2.png labeled3.png and so on. This will add the Label "SOLD" in red. This is OPTIONAL.
+sold.txt should contain the names of the NFTs you already sold. The files should be listed as labeled_1.png labeled_2.png labeled_3.png and so on. This will add the Label "SOLD" in red. This is OPTIONAL.
 
 Run "bash gallery.sh" and wait grab a coffee. This could take some time.
 
