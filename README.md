@@ -29,7 +29,7 @@ Final Result should be a gallery folder with 100 images in jpg format ready to b
 
 
 
-If this tool was helpful, consider bying me a beer. Or a beer factory, I am not your supervisor!
+If this tool was helpful, consider buying me a beer. Or a beer factory, I am not your supervisor!
 
 XCH: xch1ac74hll6w0ldmrpx3eldhxdck6e4hfyhdw5z8dt8seanfldyj0sqfna064
 
